@@ -93,9 +93,47 @@
 	https://webrtc.github.io/samples/
 	https://webrtc.googlesource.com/src
 7.线程
+	https://github.com/Microsoft/napajs.git
+	https://github.com/chenshuo/muduo.git
+	https://github.com/google/re2.git
+	https://github.com/cpp-taskflow/cpp-taskflow.git
 8.下载
 9.游戏引擎
 	C++
 	JS
 10.语言
+	https://github.com/unofficial-openjdk/openjdk.git
+	https://github.com/gcc-mirror/gcc.git
+	https://gcc.gnu.org/
+	https://en.wikipedia.org/wiki/V8_engine
+	https://github.com/v8/v8/wiki
 11.android
+12.优秀的框架
+	https://github.com/apache/incubator-weex
+	https://github.com/misback/weex_js_engine.git
+	https://github.com/facebook/react-native.git
+	https://github.com/alibaba/GCanvas.git
+	https://github.com/alibaba/G3D.git
+	https://github.com/steveLauwh/SGI-STL.git
+13.异步神器
+	https://github.com/ReactiveX/RxJava.git
+	https://github.com/ReactiveX/RxAndroid.git
+	https://github.com/ReactiveX/RxSwift.git
+	https://github.com/Reactive-Extensions/RxJS.git
+	https://github.com/tbruyelle/RxPermissions.git
+	https://github.com/JakeWharton/RxBinding.git
+	https://github.com/ReactiveX/RxJavaFileUtils.git
+	https://github.com/ReactiveX/RxApacheHttp.git
+	https://github.com/ReactiveX/RxNetty.git
+	https://github.com/ReactiveX/RxCpp.git
+	https://github.com/ReactiveX/RxKotlin.git
+14.内存池
+	https://github.com/multi-os-engine/dlmalloc.git
+	https://github.com/ARMmbed/dlmalloc.git
+	http://g.oswego.edu/dl/html/malloc.html
+	https://github.com/ennorehling/dlmalloc.git
+	https://github.com/thi-ng/tinyalloc.git
+	https://github.com/GrapheneOS/hardened_malloc.git
+	https://github.com/emeryberger/Hoard.git
+	https://github.com/bytemaster/fc_malloc.git
+	https://github.com/Begun/lockfree-malloc.git
