@@ -3,3 +3,21 @@
 	https://github.com/GNOME/gimp.git
 	https://github.com/BradLarson/GPUImage.git
 	https://github.com/BradLarson/GPUImage3.git
+	http://www.jhlabs.com/ie/index.html
+	http://www.jhlabs.com/
+	https://github.com/ImageMagick/ImageMagick.git
+	https://github.com/ajmas/JH-Labs-Java-Image-Filters.git
+	
+2.图像格式
+	https://developers.google.com/speed/webp/
+	https://github.com/d3/d3.git
+	https://github.com/adobe-webplatform/Snap.svg.git
+	https://github.com/maxwellito/vivus.git
+3.压缩
+	https://github.com/imaya/zlib.js.git
+	https://github.com/Stuk/jszip.git
+	https://github.com/Stuk/jszip-utils.git
+	https://www.7-zip.org/
+	http://www.winimage.com/zLibDll/minizip.html
+	http://www.zlib.net/
+	https://lz4.github.io/lz4/
